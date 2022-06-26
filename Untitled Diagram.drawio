@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-26T16:52:34.575Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="zEggT4L0gfqLESs2HqP2" version="20.0.3" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-06-26T16:54:03.402Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="4kpoq9LF9gaVyM7ew7iU" version="20.0.3" type="github" pages="2">
   <diagram id="870bee5f-fca8-f7f1-4fa7-7f8322daee49" name="Simple tree">
     <mxGraphModel dx="868" dy="488" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -98,6 +98,21 @@
         </mxCell>
         <mxCell id="dyM5a9dF4ckRkaVxoWVo-1" value="Adopted" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="485" y="245" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dyM5a9dF4ckRkaVxoWVo-2" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="6b2df6da06c5d395-2" target="6b2df6da06c5d395-40">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="310" y="280" as="sourcePoint" />
+            <mxPoint x="360" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dyM5a9dF4ckRkaVxoWVo-3" value="good" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="305" y="175" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dyM5a9dF4ckRkaVxoWVo-4" value="love 30" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="240" y="95" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dyM5a9dF4ckRkaVxoWVo-5" value="love 70" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="420" y="120" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
